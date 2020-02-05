@@ -11,10 +11,10 @@
 * [繪圖抽機票活動](http://settour.com.tw/act/mkt/paint)
 
 ### 官網改版
-* [官網改版](https://www.settour.com.tw/)
+* [新官網](https://www.settour.com.tw/)
 
 ### 其他
-* [webpackBuild](https://github.com/an-0611/webpackBuild)(webpack4環境建置、CICD(Travis+Mocha+Docker+Heroku)、前後端架構(react+express)、SSR)
+* [webpackBuild](https://github.com/an-0611/webpackBuild)(webpack4、Travis+Mocha+Docker+Heroku)、(react+express)、SSR)
 * [markdown-editor](https://an-0611.github.io/markdown-editor/#/) (新增修改預覽markdown文章)
 * [daily-drink](https://an-0611.github.io/dailydrinks/) (新增修改刪除排序-飲料訂單)
 * [todolist(vue)](https://an-0611.github.io/Vuex/#/Todolist) (vue-todolist)
