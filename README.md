@@ -8,7 +8,7 @@
 
 ### 活動案開發(js)
 * [製作長輩圖活動](https://www.settour.com.tw/act/mkt/elderpicture/)(LineWebview開發、firebase串接、erp抽獎機制串接)
-* [繪圖抽機票活動](http://settour.com.tw/act/mkt/paint)
+* [繪圖抽機票活動](http://settour.com.tw/act/mkt/paint/)
 
 ### 官網改版
 * [新官網](https://www.settour.com.tw/)
