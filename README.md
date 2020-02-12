@@ -24,3 +24,17 @@
 
 ### UI layout RWD
 * [lol-ui-layout-fake](https://an-0611.github.io/lol-layout/)
+
+
+
+car</br>
+https://trip.settour.com.tw/car/product/CPP0000000261/RNT0000001878/202002 36
+https://trip.settour.com.tw/car/product/CPP0000000127/RNT0000002148/202002 24
+
+國內旅遊</br>
+[hrp 住宿 高鐵api](https://trip.settour.com.tw/taiwan/product/HRP0000000758)</br>
+[hrp 加購 優惠活動 串高鐵 行銷活動](https://trip.settour.com.tw/taiwan/product/HRP0000000811/)</br>
+[mini tour 一日遊](https://trip.settour.com.tw/taiwan/product/GDP0000001190)</br>
+[GDP 三日 住宿 無加購](https://trip.settour.com.tw/taiwan/productSelect/GDP0000000311/PKB08N0200218)</br>
+[無法訂購](https://trip.settour.com.tw/taiwan/product/GDP0000001279/)</br>
+
