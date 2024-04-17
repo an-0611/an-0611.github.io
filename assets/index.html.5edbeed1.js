@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3af3588e","path":"/tags/html5-history-api/","title":"HTML5 History API | Tags","lang":"en-US","frontmatter":{"title":"HTML5 History API | Tags","layout":"Tags","blog":{"type":"category","name":"HTML5 History API","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{t as data};

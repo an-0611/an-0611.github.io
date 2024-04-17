@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-af54deee","path":"/tags/hashchange-listener/","title":"hashchange listener | Tags","lang":"en-US","frontmatter":{"title":"hashchange listener | Tags","layout":"Tags","blog":{"type":"category","name":"hashchange listener","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-48d2ebeb","path":"/tags/popstate-listener/","title":"popstate listener | Tags","lang":"en-US","frontmatter":{"title":"popstate listener | Tags","layout":"Tags","blog":{"type":"category","name":"popstate listener","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

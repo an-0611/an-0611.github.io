@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-31e0ba33","path":"/tags/router-implement/","title":"Router implement | Tags","lang":"en-US","frontmatter":{"title":"Router implement | Tags","layout":"Tags","blog":{"type":"category","name":"Router implement","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

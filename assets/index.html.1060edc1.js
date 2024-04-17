@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1f90c55f","path":"/tags/credit-card-sample/","title":"Credit Card Sample | Tags","lang":"en-US","frontmatter":{"title":"Credit Card Sample | Tags","layout":"Tags","blog":{"type":"category","name":"Credit Card Sample","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

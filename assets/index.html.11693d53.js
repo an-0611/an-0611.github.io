@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-52ba92e6","path":"/tags/dns-search/","title":"DNS search | Tags","lang":"en-US","frontmatter":{"title":"DNS search | Tags","layout":"Tags","blog":{"type":"category","name":"DNS search","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

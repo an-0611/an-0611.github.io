@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-dd0e1a44","path":"/tags/2msl/","title":"2MSL | Tags","lang":"en-US","frontmatter":{"title":"2MSL | Tags","layout":"Tags","blog":{"type":"category","name":"2MSL","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{t as data};
